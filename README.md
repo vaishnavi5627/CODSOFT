@@ -19,3 +19,27 @@ Language:python
 4.Run the script:
 ....bash
 python to-do-list.py 
+
+
+#Task2: CALCULATOR(python project)
+
+This is a biginner-friendly calculator application built using python.
+It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division  through a simple console interface.
+
+#FEATURES
++ Add tow numbers 
+- Subtract one number from another 
+* Multiply two numbers
+% Divide one number by another
+
+#TECHNOLOGIES USED
+Language: Python
+
+#HOW TO RUN
+1.make sure python is installed or not on your system
+2.Or use vs code also
+3.Open a terminal in project directory
+4.Run the script:
+....bash
+python simple-calculator.py 
+
