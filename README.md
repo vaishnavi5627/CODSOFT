@@ -20,7 +20,7 @@
 3.Open a terminal in project directory.
 4.Run the script:
 ....bash
-python to-do-list.py 
+python to_do_list.py 
 
 
 #Task2: CALCULATOR(python project)
