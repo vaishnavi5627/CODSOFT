@@ -6,10 +6,10 @@
 *It allows users to manage their tasks by adding,vieving,and removing them interactively.
 
 #FEATURES:
-Add new task.
-View all existing or adding task list.
-Remove task from task list'
-Easy to understand.
+1.Add new task.
+2.View all existing or adding task list.
+3.Remove task from task list'
+4.Easy to understand.
 
 #TECHNOLOGIES USED:
 *Language:python
@@ -29,10 +29,10 @@ This is a biginner-friendly calculator application built using python.
 It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division  through a simple console interface.
 
 #FEATURES:
-+ Add tow numbers .
-- Subtract one number from another. 
-* Multiply two numbers.
-% Divide one number by another.
+1.+ Add tow numbers .
+2.- Subtract one number from another. 
+3.* Multiply two numbers.
+4.% Divide one number by another.
 
 #TECHNOLOGIES USED:
 Language: Python
