@@ -45,3 +45,28 @@ Language: Python
 ....bash
 python simple-calculator.py 
 
+
+#Task3: PASSWORD_GENERATOR(Python project)
+
+This is a simple and customizable password generator built using python.
+It allows users to create strong and secure passwords by choosing the desired length and character types
+
+#FEATURES:
+1. Generate secure, random passwords
+2. Specify password length
+3. Includes:Uppercases,lowercases,numbers and symbols
+4. beginner-friendly python code easily
+
+ #TECHNOLOGIES USED:
+Language: Python  
+
+#HOW TO RUN
+1.make sure python is installed or not on your system.
+2.Or use vs code also.
+3.Open a terminal in project directory.
+4.Run the script:
+....bash
+python gen_password.py 
+
+
+
