@@ -43,7 +43,7 @@ Language: Python
 3.Open a terminal in project directory.
 4.Run the script:
 ....bash
-python simple-calculator.py 
+python simple_calculator.py 
 
 
 #Task3: PASSWORD_GENERATOR(Python project)
