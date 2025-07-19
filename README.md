@@ -1,5 +1,6 @@
-# Task1:TO-DO-LIST, Task2:CALCULATOR, Task3:PASSWORD GENERATOR, Task5:CONTACT BOOK(python project)
+##CODSOFT ## Task1:TO-DO-LIST, Task2:CALCULATOR, Task3:PASSWORD GENERATOR, Task5:CONTACT BOOK(python project)
 
+#Task1:TO-DO-LIST
 This is a simple and biginner-friendly command-line TO-DO-List application built using python.
 It allows users to manage their tasks by adding,vieving,and removing them interactively.
 
